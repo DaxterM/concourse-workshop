@@ -10,4 +10,4 @@ inputs:
   - name: music-repo
 
 run:
-  path: music-repo/ci/tasks/unit/unit.sh
+  path: music-repo/ci/tasks/unit/task.sh
