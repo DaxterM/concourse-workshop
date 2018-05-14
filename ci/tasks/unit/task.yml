@@ -7,7 +7,7 @@ image_resource:
     repository: datianshi/gradle
 
 inputs:
-  - name: concourse-workshop
+  - name: music-repo
 
 run:
   path: music-repo/ci/tasks/unit/unit.sh
